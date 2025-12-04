@@ -1,0 +1,1 @@
+Este archivo explica que el servicio de auth está bajo el módulo principal `historial-clinico-backend`, pero se incluyó un go.mod separado en auth/ solo como referencia. Lo ideal es usar SOLO el go.mod de la raíz y eliminar el de auth/ si decides manejarlo como mono-repo.
